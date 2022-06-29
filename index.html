@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Suwit</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+    <div class="bungkusluar">
+        <div class="bungkusdalam">
+            <h1>Game Suwit (HostinginAja)</h1>
+                <form action="">
+                    <div class="bungkusform">
+                        <label for="">Pilihan</label>
+                        <input type="text" id="pilih" placeholder="gunting | batu | kertas">
+                    </div>
+                    <button type="button" class="tombol" onclick="proses()">Kirim</button>
+                </form>
+        </div>
+
+       <div class="hasil">
+        <div class="kotak biasa hasilorang orang">
+            <p class="subtitle">Status</p>
+            <h1 class="title">Kalian</h1>
+            <h3 id="jadi"></h3>
+        </div>
+            <div class="kotak biasa hasilkom kom">
+            <p class="subtitle">status</p>
+            <h2 class="title">Komputer</h2>
+        </div>
+       </div>
+    </div>
+
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="main.js"></script>
+</body>
+</html>
