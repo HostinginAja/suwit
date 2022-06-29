@@ -9,7 +9,7 @@ Aplikasi game Suwit gunting|batu|kertas sederhana dibuat dengan Javascript,html,
 
 ## 💜Game gunting-batu-kertas
 
-This project is used by the following companies:
+KELEBIHAN GAME SEDERHANA INI:
 
 - UI yang menarik & modern
 - kompatibel di berbagai perangkat
@@ -17,9 +17,13 @@ This project is used by the following companies:
 - v1.2 akan ada fitur skor yang belum ada sekarang
 
 
-## Screenshots
+## Demo
 
-![image](https://user-images.githubusercontent.com/108168147/176494661-e7848446-9560-4d4d-8183-af29fe243792.png)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/108168147/176496257-d23bcff4-418d-48c3-8450-6fbb30e1387c.gif)
+
+
+
 
 
 
