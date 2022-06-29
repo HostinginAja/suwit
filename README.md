@@ -19,7 +19,7 @@ This project is used by the following companies:
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/108168147/176493727-122a89ac-4d3e-435a-ab40-f3d5d6636787.png)
+![image](https://user-images.githubusercontent.com/108168147/176494661-e7848446-9560-4d4d-8183-af29fe243792.png)
 
 
 
