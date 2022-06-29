@@ -20,7 +20,7 @@ KELEBIHAN GAME SEDERHANA INI:
 ## Demo
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/108168147/176496257-d23bcff4-418d-48c3-8450-6fbb30e1387c.gif)
+<img width="480px" height="480px" src="https://user-images.githubusercontent.com/108168147/176496257-d23bcff4-418d-48c3-8450-6fbb30e1387c.gif">
 
 
 
