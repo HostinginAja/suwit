@@ -39,7 +39,7 @@ if(pilihan == kom){
     komputer.classList.toggle('seri');
     Swal.fire(
         'PILIHAN ANDA SERI',
-        'AYO DICOBA LAGI SEMANGAT!',
+        'Pilihan kamu ' + pilihan + ' pilihan komputer ' + kom,
         'question'
       )
 }else if(pilihan == "batu"){
@@ -56,7 +56,7 @@ if(pilihan == kom){
         komputer.classList.toggle('kalah');
         Swal.fire(
             'KAMU MENANG',
-            'GILEEE JAGO BANGETTT',
+            'Pilihan kamu ' + pilihan + ' pilihan komputer ' + kom,
             'success'
           );
     }else{
@@ -73,7 +73,7 @@ if(pilihan == kom){
         Swal.fire({
             icon: 'error',
             title: 'YAHH KALAH',
-            text: 'AYO SEMANGATT!!! COBA LAGI',
+            text: 'Pilihan kamu ' + pilihan + ' pilihan komputer ' + kom ,
           })
     }
 }
@@ -91,7 +91,7 @@ if(pilihan == kom){
             komputer.classList.toggle('kalah');
             Swal.fire(
                 'KAMU MENANG',
-                'GILEEE JAGO BANGETTT',
+                'Pilihan kamu ' + pilihan + ' pilihan komputer ' + kom,
                 'success'
               )
         }else{
@@ -108,7 +108,7 @@ if(pilihan == kom){
             Swal.fire({
                 icon: 'error',
                 title: 'YAHH KALAH',
-                text: 'AYO SEMANGATT!!! COBA LAGI',
+                text: 'Pilihan kamu ' + pilihan + ' pilihan komputer ' + kom,
               })
         }
     }
@@ -126,7 +126,7 @@ if(pilihan == kom){
                 komputer.classList.toggle('kalah');
                 Swal.fire(
                     'KAMU MENANG',
-                    'GILEEE JAGO BANGETTT',
+                    'Pilihan kamu ' + pilihan + ' pilihan komputer ' + kom,
                     'success'
                   )
             }else{
@@ -143,7 +143,7 @@ if(pilihan == kom){
                 Swal.fire({
                     icon: 'error',
                     title: 'YAHH KALAH',
-                    text: 'AYO SEMANGATT!!! COBA LAGI',
+                    text: 'Pilihan kamu ' + pilihan + ' pilihan komputer ' + kom,
                   })
             }
         }
