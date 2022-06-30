@@ -44,16 +44,16 @@ if(pilihan == kom){
       )
 }else if(pilihan == "batu"){
     if(kom == "gunting"){
-        manusia.classList.remove('seri');
-        komputer.classList.remove('seri');
-        manusia.classList.toggle('biasa');
-        manusia.classList.remove('kalah');
-        manusia.classList.remove('menang');
-        manusia.classList.toggle('menang');
-        komputer.classList.remove('kalah');
-        komputer.classList.remove('menang');
-        komputer.classList.toggle('biasa');
-        komputer.classList.toggle('kalah');
+            manusia.classList.remove('seri');
+            komputer.classList.remove('seri');
+            manusia.classList.toggle('biasa');
+            manusia.classList.remove('kalah');
+            manusia.classList.remove('menang');
+            manusia.classList.toggle('menang');
+            komputer.classList.remove('kalah');
+            komputer.classList.remove('menang');
+            komputer.classList.toggle('biasa');
+            komputer.classList.toggle('kalah');
         Swal.fire(
             'KAMU MENANG',
             'Pilihan kamu ' + pilihan + ' pilihan komputer ' + kom,
@@ -80,7 +80,7 @@ if(pilihan == kom){
     else if(pilihan == "gunting"){
         if(kom == "kertas"){
             manusia.classList.remove('seri');
-        komputer.classList.remove('seri');
+            komputer.classList.remove('seri');
             manusia.classList.toggle('biasa');
             manusia.classList.remove('kalah');
             manusia.classList.remove('menang');
